@@ -19,7 +19,7 @@ function theBeatlesPlay(musicians, instruments) {
    var arr = []
    do{
    arr.push("I love the Beatles!");
-   } while (n < 15); 
-   n++;
+   n++
+   } while (n < 15);
   return arr
  }
